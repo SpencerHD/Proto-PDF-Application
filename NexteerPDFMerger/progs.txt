@@ -1,0 +1,11 @@
+Chrysler DT:DTapproval@nexteerautomotive.onmicrosoft.com
+Chrysler WL:WLSHIPPING@nexteerautomotive.onmicrosoft.com
+Ford S550:S550approval@nexteerautomotive.onmicrosoft.com
+Ford T6:Ford.T6@nexteerautomotive.onmicrosoft.com
+Ford U55X:FORDU55X@nexteerautomotive.onmicrosoft.com
+Ford V713:FORDV713SHIPPINGAPPROVAL@nexteerautomotive.onmicrosoft.com
+GAC A12:GACA12SHIPPING@nexteerautomotive.onmicrosoft.com
+GAC A18:GACA18SHIPPING@nexteerautomotive.onmicrosoft.com
+GAC A90:GACA90SHIPPING@nexteerautomotive.onmicrosoft.com
+Geely PMA-1:PMAAE@nexteerautomotive.onmicrosoft.com
+Other:N/A
